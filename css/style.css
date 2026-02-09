@@ -541,7 +541,7 @@ h1, h2, h3, h4, h5, h6 { font-size: inherit; font-weight: 400; }
 
 @media (max-width: 1240px) { .clients__logos { width: 100px; height: 100%; } }
 
-.our-works { padding: 90px 0; }
+.our-works { padding: 0; }
 
 @media (max-width: 767px) { .our-works { padding: 70px 0; } }
 
